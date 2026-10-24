@@ -222,18 +222,9 @@ Include the `.pbix` file only if you are permitted to share it. Save the
 dashboard screenshot in `images/` and update the path if you use another
 filename.
 
-## Portfolio Summary
-
-**Maven Market Retail Performance Dashboard** is a Power BI reporting
-project that consolidates retail KPIs, brand performance, geographic
-distribution, weekly revenue trends, and target progress into one
-executive view. It helps stakeholders monitor performance, identify
-areas for deeper investigation, and turn business metrics into focused
-questions and potential actions.
 
 **Project type:** Retail Analytics & Business Intelligence\
-**Role:** Data Analyst / Power BI Developer (choose the title that
-accurately reflects your contribution)\
+**Role:** Data Analyst / Power BI Developer 
 **Primary tool:** Microsoft Power BI\
 **Focus:** KPI Reporting \| Sales Performance \| Profitability \|
 Returns Analysis \| Geographic Analysis \| Revenue Target Tracking
