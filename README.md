@@ -207,16 +207,7 @@ you used them in the project.
 -   Add filters for date, brand, product, and country, if supported by
     the model.
 
-## Suggested Repository Structure
 
-``` text
-maven-market-powerbi-retail-dashboard/
-├── README.md
-├── images/
-│   └── maven-market-dashboard.png
-└── report/
-    └── maven-market-dashboard.pbix
-```
 
 Include the `.pbix` file only if you are permitted to share it. Save the
 dashboard screenshot in `images/` and update the path if you use another
